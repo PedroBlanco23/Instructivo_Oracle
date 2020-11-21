@@ -54,9 +54,9 @@ Luego, recibiremos un mail para validar el email.
 
 Ingresando a través del link, continuaremos el registro.
 
-En nombre de compañía, de forma opcional pueden poner el nombre de UADE. 
+En nombre de compañía, de forma opcional pueden poner el nombre de UADE.
 
-![](capturas\img4.jpg)
+ ![](capturas\img4.jpg)
 
 En región elegir **Latin America (Sao Paulo)**
 
@@ -74,15 +74,17 @@ Ingresamos nuestro número de teléfono.
 
 ![](capturas\imagen sms.jpg)
 
-En category and product eligen las siguientes: 
+En category and product eligen las siguientes:
 
 ![](capturas\img8.jpg)
 
 ![](capturas\img9.jpg)
 
-Luego de verificar el número de teléfono, debemos ingresar el método de pago 
+Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
-![](capturas\img10.jpg)
+
+
+ ![](capturas\img10.jpg)
 
 **AVISO: Puede que se reciba un cobro de 1 dólar pero se cancela AUTOMATICAMENTE es solo para corroborar la cuenta.**
 
@@ -95,3 +97,61 @@ Cuenta creada. Ahora debemos esperar a que se procese. (Puede tardar horas)
 
 
 ## Sección 2: Crear base de datos Autónoma
+
+Primero debemos iniciar sesión.
+
+Nos dirigimos a https://www.oracle.com/index.html
+
+![](capturas\img12.jpg)
+
+Ingresamos nuestro usuario.
+
+![img13](capturas\img13.jpg)
+
+Elegimos **Single Sign-On**.
+
+![img14](capturas\img14.jpg)
+
+Ingresamos con nuestro **correo electrónico**.
+
+![img15](capturas\img15.jpg)
+
+Una vez que estamos dentro de **Oracle Cloud**, nos dirigimos a "Almacén de datos autónomo".
+
+![img16](capturas\img16.jpg)
+
+Luego, entramos en "**Crear base de datos autónoma**".
+
+![img17](capturas\img17.jpg)
+
+Colocamos un nombre (para mostrar) y para la base de datos(interno). Pueden ser el mismo.
+
+![img18](capturas\img18.jpg)
+
+Elegimos tipo de base (preferentemente almacén de datos) y compartida para ser gratuita.
+
+![img19](capturas\img19.jpg)
+
+Marcamos la casilla Siempre gratis.
+
+![img20](capturas\img20.jpg)
+
+Una vez marcada,  se configurará para **Always Free**.
+
+![img21](capturas\img21.jpg)
+
+Indicamos la contraseña para **ADMIN** (Con ella ingresaremos a la base de datos para conectarnos).
+
+![img22](capturas\img22.jpg)
+
+Las configuraciones restantes podemos dejarlas por predeterminado. Clickeamos en **"Crear base de datos autónoma"**. 
+
+![img23](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img23.jpg)
+
+
+
+Esperamos a que la base termine de ser creada.
+
+![img24](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img24.jpg)
+
+## Sección 3: Descargar SQL Developer
