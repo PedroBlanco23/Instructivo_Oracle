@@ -4,7 +4,7 @@
 
 ### Objetivo del instructivo
 
-- Crear una cuenta en la Nube Always Free
+- Crear una cuenta en la Nube Always Free.
 
 - Crear una base de datos Oracle Always Free.
 - Descargar SQL Developer.
@@ -16,7 +16,7 @@
 
 ### Requisitos
 
-- Correo electrónico,
+- Correo electrónico.
 - Información personal.
 - Contar con una tarjeta de crédito no prepaga (*Solo para que Oracle corrobore la identidad, no se realizará ningún cobro)*.
 - Número telefónico.
@@ -40,7 +40,7 @@ Una cuenta free de Oracle Cloud proporciona lo siguientes servicios de por vida:
 
 ## Sección 1: Crear cuenta de Oracle Always Free
 
-Para crear nuestra cuenta dentro de Oracle, debemos dirigirnos al siguiente link:
+Para crear nuestra cuenta dentro de Oracle, debemos dirigirnos al siguiente link.
 
 https://www.oracle.com/ar/cloud/free/
 
@@ -68,7 +68,7 @@ En nombre de compañía, de forma opcional pueden poner el nombre de UADE.
 
 
 
-En región elegir **Latin America (Sao Paulo)**
+En región elegir **Latin America (Sao Paulo).**
 
 ![](capturas/img5.jpg?raw=true)
 
@@ -86,13 +86,13 @@ Ingresamos nuestro número de teléfono.
 
 
 
-**Consejo:** Si no reciben el código SMS pueden contactarse con Oracle con el botón de ayuda. *(necesitaran hablar un poco de Inglés)*
+**Consejo:** Si no reciben el código SMS pueden contactarse con Oracle con el botón de ayuda. *(necesitaran hablar un poco de Inglés)*.
 
 ![](capturas/imgsms.jpg?raw=true)
 
 
 
-En category and product eligen las siguientes:
+En category and product eligen las siguientes.
 
 ![](capturas/img8.jpg?raw=true)
 
@@ -110,7 +110,7 @@ Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
 
 
-Cuenta creada. Ahora debemos esperar a que se procese. *(Puede tardar horas)*
+Cuenta creada. Ahora debemos esperar a que se procese. *(Puede tardar horas)*.
 
 ![](capturas/img11.jpg?raw=true)
 
@@ -451,7 +451,7 @@ Resultado.
 
 ## Sección 6: Exportar datos
 
-Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar"**
+Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar".**
 
 ![img67](capturas/img67.jpg?raw=true)
 
@@ -459,7 +459,7 @@ Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas*
 
 Se nos abrirá la siguiente pestaña.
 
-Deseleccionamos DDL *(Está opción guarda otros archivos con información de la tabla que no es pertinente para lo que deseamos)*
+Deseleccionamos DDL *(Está opción guarda otros archivos con información de la tabla que no es pertinente para lo que deseamos)*.
 
 ![img68](capturas/img68.JPG?raw=true)
 
@@ -471,11 +471,11 @@ Aquí podemos elegir el formato de salida.
 
 
 
-Tenemos varias opciones de como guardar la tabla/s. 
+Tenemos varias opciones de como guardar la/s tabla/s. 
 
-- Puede ser en un archivo único (*Si es Excel, las tablas estarán en el mismo archivo pero en distintas hojas.*)
+- Puede ser en un archivo único (*Si es Excel, las tablas estarán en el mismo archivo pero en distintas hojas*).
 - Nos permite elegir si queremos o no cabecera (Excel 2003 en formato).
-- Si es un archivo TXT, nos permite elegir el delimitador
+- Si es un archivo TXT, nos permite elegir el delimitador.
 
 
 
@@ -491,7 +491,7 @@ Tenemos varias opciones de como guardar la tabla/s.
 
 
 
-Aquí podemos **Especificar Datos**
+Aquí podemos **Especificar Datos**.
 
 <img src="capturas/img72.JPG?raw=true)" alt="img72" style="zoom:80%;" />
 
