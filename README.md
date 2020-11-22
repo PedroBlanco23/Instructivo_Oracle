@@ -24,7 +24,5 @@ Cada paso, tiene su respectiva sección.
 
 
 
-Para visualizar las imágenes, es necesario descargar el repositorio (.zip) y descomprimirlo.
-
 
 

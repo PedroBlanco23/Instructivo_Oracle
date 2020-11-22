@@ -289,7 +289,7 @@ Elegimos la opción "**Capa de base de datos**".
 - En nombre, elegimos el que queremos ya que es visual.
 - En usuario colocamos **ADMIN**.
 - En contraseña, introducimos la que **asignamos** para ADMIN cuando creamos la base.
-- En tipo de conexión, **Cartera de Cloud** y en examinar seleccionamos el archivo que descargamos desde la página(**Wallet_NombreBase.zip**).
+- En tipo de conexión, **Cartera de Cloud** y en examinar seleccionamos el archivo que descargamos desde la página(***Wallet_NombreBase.zip***).
 
 ![img39](capturas/img39.jpg?raw=true)
 
@@ -315,7 +315,7 @@ Nos pedirá nuevamente la contraseña.
 
 ## Sección 5: Importar datos
 
-Una vez conectados a la base, en la carpeta **Tablas(Filtrado)** hacemos click derecho, **importar datos.**
+Una vez conectados a la base, en la carpeta **Tablas(*Filtrado*)** hacemos click derecho, **importar datos.**
 
 ![img43](capturas/img43.jpg?raw=true)
 
@@ -333,7 +333,7 @@ En archivo, hacemos click en **examinar** y buscamos el archivo Excel.
 
 
 
-Automáticamente nos detectará la cabecera. De ser necesario, la podemos desmarcar para colocarla nosotros mismos luego. (ir a colocar cabecera pasa saber más).
+Automáticamente nos detectará la cabecera. De ser necesario, la podemos desmarcar para colocarla nosotros mismos luego. *(ir a colocar cabecera pasa saber más)*.
 
 ![img46](capturas/img46.jpg?raw=true)
 
@@ -363,7 +363,7 @@ Y  por último, se importa la tabla.
 
 **AVISO**
 
-Probablemente no podamos ver la tabla en la carpeta de "Tablas (Filtrado)" ya que debemos **refrescar** la conexión.
+Probablemente no podamos ver la tabla en la carpeta de "Tablas *(Filtrado)*" ya que debemos **refrescar** la conexión.
 
 ![img51](capturas/img51.jpg?raw=true)
 
@@ -481,9 +481,9 @@ Tenemos varias opciones de como guardar la tabla/s.
 
 *Aviso: Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión correcta dará error.*
 
-<img src="capturas/img70.jpg" alt="img70" style="zoom: 50%;" />?raw=true)
+<img src="capturas/img70.jpg?raw=true)" alt="img70" style="zoom: 50%;" />
 
-<img src="capturas/img71.JPG" alt="img71" style="zoom: 80%;" />?raw=true)
+<img src="capturas/img71.jpg?raw=true)" alt="img71" style="zoom: 80%;" />
 
 
 
@@ -493,7 +493,7 @@ Tenemos varias opciones de como guardar la tabla/s.
 
 Aquí podemos **Especificar Datos**
 
-<img src="capturas/img72.JPG" alt="img72" style="zoom:80%;" />?raw=true)
+<img src="capturas/img72.JPG?raw=true)" alt="img72" style="zoom:80%;" />
 
 
 
