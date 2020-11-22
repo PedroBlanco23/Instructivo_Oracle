@@ -216,7 +216,7 @@ Nos pedirá crearnos una cuenta **Oracle**. No tendrá relación con la creada p
 
 
 
-Ingresamos nuestros datos
+Ingresamos nuestros datos.
 
 ![img27](capturas/img27.jpg?raw=true)
 
@@ -238,7 +238,7 @@ Dentro de la carpeta extraída, encontraremos el ejecutable.
 
 ![img30](capturas/img30.jpg?raw=true)
 
-![image-20201121190048553](C:/Users/Pedro/AppData/Roaming/Typora/typora-user-images/image-20201121190048553.png)
+![image-20201121190048553](capturas/img31.jpg?raw=true)
 
 ## Sección 4: Realizar conexión 
 
