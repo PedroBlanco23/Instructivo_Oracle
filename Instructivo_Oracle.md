@@ -34,7 +34,7 @@ Una cuenta free de Oracle Cloud proporciona lo siguientes servicios de por vida:
 - 10 GB de almacenamiento de archivos.
 - Además de $300 dólares de crédito por 1 mes para probar cualquier producto o servicio dentro de la nube.
 
-![](capturas\AVISO.PNG?raw=true)
+![](capturas/AVISO.PNG?raw=true)
 
 
 
@@ -44,19 +44,19 @@ Para crear nuestra cuenta dentro de Oracle, debemos dirigirnos al siguiente link
 
 https://www.oracle.com/ar/cloud/free/
 
-![img1](capturas\img1.jpg?raw=true)
+![img1](capturas/img1.jpg?raw=true)
 
 
 
 Ingresamos nuestra información personal.
 
-![](capturas\img2.jpg?raw=true)
+![](capturas/img2.jpg?raw=true)
 
 
 
 Luego, recibiremos un mail para validar el email.
 
-![img3](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img3.jpg)
+![img3](capturas/img3.jpg?raw=true)
 
 
 
@@ -64,45 +64,45 @@ Ingresando a través del link, continuaremos el registro.
 
 En nombre de compañía, de forma opcional pueden poner el nombre de UADE.
 
- ![](capturas\img4.jpg?raw=true)
+ ![](capturas/img4.jpg?raw=true)
 
 
 
 En región elegir **Latin America (Sao Paulo)**
 
-![](capturas\img5.jpg?raw=true)
+![](capturas/img5.jpg?raw=true)
 
 
 
 Nuevamente, completamos con información personal.
 
-![](capturas\img6.jpg?raw=true)
+![](capturas/img6.jpg?raw=true)
 
 
 
 Ingresamos nuestro número de teléfono.
 
-![](capturas\img7.jpg?raw=true)
+![](capturas/img7.jpg?raw=true)
 
 
 
 **Consejo:** Si no reciben el código SMS pueden contactarse con Oracle con el botón de ayuda. *(necesitaran hablar un poco de Inglés)*
 
-![](capturas\imgsms.jpg?raw=true)
+![](capturas/imgsms.jpg?raw=true)
 
 
 
 En category and product eligen las siguientes:
 
-![](capturas\img8.jpg?raw=true)
+![](capturas/img8.jpg?raw=true)
 
-![](capturas\img9.jpg?raw=true)
+![](capturas/img9.jpg?raw=true)
 
 
 
 Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
- ![](capturas\img10.jpg?raw=true)
+ ![](capturas/img10.jpg?raw=true)
 
 
 
@@ -112,7 +112,7 @@ Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
 Cuenta creada. Ahora debemos esperar a que se procese. *(Puede tardar horas)*
 
-![](capturas\img11.jpg?raw=true)
+![](capturas/img11.jpg?raw=true)
 
 
 
@@ -122,73 +122,73 @@ Primero debemos iniciar sesión.
 
 Nos dirigimos a https://www.oracle.com/index.html
 
-![](capturas\img12.jpg?raw=true)
+![](capturas/img12.jpg?raw=true)
 
 
 
 Ingresamos nuestro usuario.
 
-![img13](capturas\img13.jpg?raw=true)
+![img13](capturas/img13.jpg?raw=true)
 
 
 
 Elegimos **Single Sign-On**.
 
-![img14](capturas\img14.jpg?raw=true)
+![img14](capturas/img14.jpg?raw=true)
 
 
 
 Ingresamos con nuestro **correo electrónico**.
 
-![img15](capturas\img15.jpg?raw=true)
+![img15](capturas/img15.jpg?raw=true)
 
 
 
 Una vez que estamos dentro de **Oracle Cloud**, nos dirigimos a "Almacén de datos autónomo".
 
-![img16](capturas\img16.jpg?raw=true)
+![img16](capturas/img16.jpg?raw=true)
 
 
 
 Luego, entramos en "**Crear base de datos autónoma**".
 
-![img17](capturas\img17.jpg?raw=true)
+![img17](capturas/img17.jpg?raw=true)
 
 
 
 Colocamos un nombre *(para mostrar)* y para la base de datos *(interno)*. Pueden ser el mismo.
 
-![img18](capturas\img18.jpg?raw=true)
+![img18](capturas/img18.jpg?raw=true)
 
 
 
 Elegimos tipo de base *(preferentemente almacén de datos)* y compartida para ser gratuita.
 
-![img19](capturas\img19.jpg?raw=true)
+![img19](capturas/img19.jpg?raw=true)
 
 
 
 Marcamos la casilla Siempre gratis.
 
-![img20](capturas\img20.jpg?raw=true)
+![img20](capturas/img20.jpg?raw=true)
 
 
 
 Una vez marcada,  se configurará para **Always Free**.
 
-![img21](capturas\img21.jpg?raw=true)
+![img21](capturas/img21.jpg?raw=true)
 
 
 
 Indicamos la contraseña para **ADMIN** *(Con ella ingresaremos a la base de datos para conectarnos)*.
 
-![img22](capturas\img22.jpg?raw=true)
+![img22](capturas/img22.jpg?raw=true)
 
 
 
 Las configuraciones restantes podemos dejarlas por predeterminado. Clickeamos en **"Crear base de datos autónoma"**. 
 
-![img23](capturas\img23.jpg?raw=true)
+![img23](capturas/img23.jpg?raw=true)
 
 
 
@@ -196,7 +196,7 @@ Las configuraciones restantes podemos dejarlas por predeterminado. Clickeamos en
 
 Esperamos a que la base termine de ser creada.
 
-![img24](capturas\img24.jpg?raw=true)
+![img24](capturas/img24.jpg?raw=true)
 
 
 
@@ -206,39 +206,39 @@ Nos dirigimos a: https://www.oracle.com/ar/tools/downloads/sqldev-v192-downloads
 
 Seleccionamos la versión adecuada para nuestro sistema operativo.
 
-![img25](capturas\img25.jpg)
+![img25](capturas/img25.jpg)
 
 
 
 Nos pedirá crearnos una cuenta **Oracle**. No tendrá relación con la creada para la nube, esta cuenta la usaremos para descargar SQL Developer.
 
-![img26](capturas\img26.jpg)
+![img26](capturas/img26.jpg)
 
 
 
 Ingresamos nuestros datos
 
-![img27](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img27.jpg)
+![img27](capturas/img27.jpg?raw=true)
 
 
 
 Una vez hayamos iniciado sesión, comenzará la descarga.
 
-![img28](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img28.jpg)
+![img28](capturas/img28.jpg?raw=true)
 
 
 
 Luego, extraemos el archivo con WinRar o su programa de preferencia.
 
-![img29](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img29.jpg)
+![img29](capturas/img29.jpg?raw=true)
 
 
 
 Dentro de la carpeta extraída, encontraremos el ejecutable.
 
-![img30](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img30.jpg)
+![img30](capturas/img30.jpg?raw=true)
 
-![image-20201121190048553](C:\Users\Pedro\AppData\Roaming\Typora\typora-user-images\image-20201121190048553.png)
+![image-20201121190048553](C:/Users/Pedro/AppData/Roaming/Typora/typora-user-images/image-20201121190048553.png)
 
 ## Sección 4: Realizar conexión 
 
@@ -248,56 +248,56 @@ Primero, debemos descargar la credencial de nuestra base. Para ello, ingresamos 
 
 Una vez dentro, nos dirigimos a "**Almacén de datos autónomo**". y seleccionamos nuestra base.
 
-![img32](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img32.jpg)
+![img32](capturas/img32.jpg?raw=true)
 
 
 
 Una vez dentro, nos dirigimos a "**Conexión de base de datos**".
 
-![img33](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img33.jpg)
+![img33](capturas/img33.jpg?raw=true)
 
 
 
 Descargaremos la cartera.
 
-![img34](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img34.jpg)
+![img34](capturas/img34.jpg?raw=true)
 
 
 
 Nos pedirá una contraseña. Es por si perdemos el archivo, **no se utilizará para iniciar sesión.** 
 
-![img35](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img35.jpg)
+![img35](capturas/img35.jpg?raw=true)
 
 
 
 Descargamos el archivo. Les recomiendo guardarlo en una carpeta accesible.
 
-![img36](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img36.jpg)
+![img36](capturas/img36.jpg?raw=true)
 
 
 
 Una vez descargado, abrimos SQL Developer y nos dirigimos a "**Nueva galería**".
 
-![img37](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img37.jpg)
+![img37](capturas/img37.jpg?raw=true)
 
 
 
 Elegimos la opción "**Capa de base de datos**".
 
-![img38](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img38.jpg)
+![img38](capturas/img38.jpg?raw=true)
 
 - En nombre, elegimos el que queremos ya que es visual.
 - En usuario colocamos **ADMIN**.
 - En contraseña, introducimos la que **asignamos** para ADMIN cuando creamos la base.
 - En tipo de conexión, **Cartera de Cloud** y en examinar seleccionamos el archivo que descargamos desde la página(**Wallet_NombreBase.zip**).
 
-![img39](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img39.jpg)
+![img39](capturas/img39.jpg?raw=true)
 
 
 
 Nos debería quedar así.
 
-![img40](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img40.jpg)
+![img40](capturas/img40.jpg?raw=true)
 
 
 
@@ -305,107 +305,107 @@ Conectamos.
 
 Nos pedirá nuevamente la contraseña.
 
-![img41](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img41.jpg)
+![img41](capturas/img41.jpg?raw=true)
 
 
 
 **Ya estamos conectados.** :blush:
 
-![img42](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img42.jpg)
+![img42](capturas/img42.jpg?raw=true)
 
 ## Sección 5: Importar datos
 
 Una vez conectados a la base, en la carpeta **Tablas(Filtrado)** hacemos click derecho, **importar datos.**
 
-![img43](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img43.jpg)
+![img43](capturas/img43.jpg?raw=true)
 
 
 
 Se nos abrirá lo siguiente.
 
-![img44](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img44.jpg)
+![img44](capturas/img44.jpg?raw=true)
 
 ### Importar archivos Excel
 
 En archivo, hacemos click en **examinar** y buscamos el archivo Excel.
 
-![img45](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img45.jpg)
+![img45](capturas/img45.jpg?raw=true)
 
 
 
 Automáticamente nos detectará la cabecera. De ser necesario, la podemos desmarcar para colocarla nosotros mismos luego. (ir a colocar cabecera pasa saber más).
 
-![img46](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img46.jpg)
+![img46](capturas/img46.jpg?raw=true)
 
 
 
 Luego, definiremos el nombre de la tabla.
 
-![img47](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img47.jpg)
+![img47](capturas/img47.jpg?raw=true)
 
 
 
 Aquí podemos elegir que **columnas** deseamos seleccionar y en qué orden. Del lado se encuentran las deseadas con su respectivo orden.
 
-![img48](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img48.jpg)
+![img48](capturas/img48.jpg?raw=true)
 
 
 
 Luego, nos permitirá cambiar tipo de datos entre otros o incluso **cambiar los nombres de las columnas**.
 
-![img49](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img49.jpg)
+![img49](capturas/img49.jpg?raw=true)
 
 
 
 Y  por último, se importa la tabla.
 
-![img50](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img50.jpg)
+![img50](capturas/img50.jpg?raw=true)
 
 **AVISO**
 
 Probablemente no podamos ver la tabla en la carpeta de "Tablas (Filtrado)" ya que debemos **refrescar** la conexión.
 
-![img51](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img51.jpg)
+![img51](capturas/img51.jpg?raw=true)
 
  
 
 Resultado.
 
-![img52](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img52.jpg)
+![img52](capturas/img52.jpg?raw=true)
 
 ### Importar archivo CSV, TXT o DSV
 
 Nos dirigimos a **importar datos**, luego examinamos el archivo.
 
-![img53](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img53.jpg)
+![img53](capturas/img53.jpg?raw=true)
 
 
 
 Tendremos **más opciones** que con archivos Excel. Aquí podemos elegir el *delimitador de columnas, terminador de línea, entre otros*.
 
-![img54](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img54.jpg)
+![img54](capturas/img54.jpg?raw=true)
 
 
 
 En este caso *(un archivo CSV)*, debemos seleccionar el delimitador que utilizaremos entre columnas. En un CSV es **“;”** pero en un TXT puede ser cualquiera que este incluido ahí.
 
-![img55](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img55.jpg)
+![img55](capturas/img55.jpg?raw=true)
 
-![img56](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img56.jpg)
+![img56](capturas/img56.jpg?raw=true)
 
 
 
 Luego, tendremos las mismas opciones que con los demás archivos.
 
-![img57](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img57.jpg)
+![img57](capturas/img57.jpg?raw=true)
 
-![img58](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img58.jpg)
+![img58](capturas/img58.jpg?raw=true)
 
-![img59](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img59.jpg)
+![img59](capturas/img59.jpg?raw=true)
 
-![img60](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img60.jpg)
+![img60](capturas/img60.jpg?raw=true)
 
-![img61](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img61.jpg)
+![img61](capturas/img61.jpg?raw=true)
 
 
 
@@ -413,7 +413,7 @@ Luego, tendremos las mismas opciones que con los demás archivos.
 
 Resultado.
 
-![img62](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img62.jpg)
+![img62](capturas/img62.jpg?raw=true)
 
 
 
@@ -421,7 +421,7 @@ Resultado.
 
 Seleccionamos el archivo que deseamos importar.
 
-![img63](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img63.jpg)
+![img63](capturas/img63.jpg?raw=true)
 
 Como se observa, el archivo no tiene cabecera. Entonces, desmarcamos "**Cabecera**".
 
@@ -429,13 +429,13 @@ Como se observa, el archivo no tiene cabecera. Entonces, desmarcamos "**Cabecera
 
 Luego, seleccionamos las columnas deseadas.
 
-![img64](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img64.jpg)
+![img64](capturas/img64.jpg?raw=true)
 
 
 
 Ahora, definiremos los nombres de las columnas.
 
-![img65](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img65.jpg)
+![img65](capturas/img65.jpg?raw=true)
 
 
 
@@ -445,7 +445,7 @@ Resultado.
 
 **Recordar REFRESCAR!!**
 
-![img66](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img66.jpg)
+![img66](capturas/img66.jpg?raw=true)
 
 
 
@@ -453,7 +453,7 @@ Resultado.
 
 Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar"**
 
-![img67](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img67.jpg)
+![img67](capturas/img67.jpg?raw=true)
 
 
 
@@ -461,13 +461,13 @@ Se nos abrirá la siguiente pestaña.
 
 Deseleccionamos DDL *(Está opción guarda otros archivos con información de la tabla que no es pertinente para lo que deseamos)*
 
-![img68](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img68.JPG)
+![img68](capturas/img68.JPG?raw=true)
 
 
 
 Aquí podemos elegir el formato de salida.
 
-![img69](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img69.jpg)
+![img69](capturas/img69.jpg?raw=true)
 
 
 
@@ -481,9 +481,9 @@ Tenemos varias opciones de como guardar la tabla/s.
 
 *Aviso: Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión correcta dará error.*
 
-<img src="C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img70.jpg" alt="img70" style="zoom: 50%;" />
+<img src="capturas/img70.jpg" alt="img70" style="zoom: 50%;" />?raw=true)
 
-<img src="C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img71.JPG" alt="img71" style="zoom: 80%;" />
+<img src="capturas/img71.JPG" alt="img71" style="zoom: 80%;" />?raw=true)
 
 
 
@@ -493,7 +493,7 @@ Tenemos varias opciones de como guardar la tabla/s.
 
 Aquí podemos **Especificar Datos**
 
-<img src="C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img72.JPG" alt="img72" style="zoom:80%;" />
+<img src="capturas/img72.JPG" alt="img72" style="zoom:80%;" />?raw=true)
 
 
 
@@ -501,4 +501,4 @@ Archivo exportado.
 
 Resultado.
 
-![img73](C:\Users\Pedro\OneDrive\Uade\proyecto division sistemas\git\capturas\img73.JPG)
+![img73](capturas/img73.JPG?raw=true)
