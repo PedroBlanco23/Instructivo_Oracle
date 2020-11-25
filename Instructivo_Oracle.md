@@ -4,15 +4,15 @@
     - [Objetivo del instructivo](#objetivo-del-instructivo)
     - [Requisitos](#requisitos)
     - [Información a tener en cuenta](#información-a-tener-en-cuenta)
- - [Sección 1: Crear cuenta de Oracle Always Free](#sección-1:-crear-cuenta-de-oracle-always-free)
- - [Sección 2: Crear base de datos Autónoma](#sección-2:-crear-base-de-datos-autónoma)
- - [Sección 3: Descargar SQL Developer](#sección-3--descargar-sql-developer)
- - [Sección 4: Realizar conexión](#sección-4--realizar-conexi-n)
- - [Sección 5: Importar datos](#sección-5--importar-datos)
+ - [Sección 1 Crear cuenta de Oracle Always Free](#sección-1:-crear-cuenta-de-oracle-always-free)
+ - [Sección 2 Crear base de datos Autónoma](#sección-2-crear-base-de-datos-autónoma)
+ - [Sección 3 Descargar SQL Developer](#sección-3-descargar-sql-developer)
+ - [Sección 4 Realizar conexión](#sección-4-realizar-conexi-n)
+ - [Sección 5 Importar datos](#sección-5-importar-datos)
    - [Importar archivos Excel](#importar-archivos-excel)
    - [Importar archivo CSV, TXT o DSV](#importar-archivo-csv--txt-o-dsv)
    - [Importar sin cabecera](#importar-sin-cabecera)
- - [Sección 6: Exportar datos](#sección-6--exportar-datos)
+ - [Sección 6 Exportar datos](#sección-6-exportar-datos)
 
 
 
@@ -51,7 +51,7 @@ Una cuenta free de Oracle Cloud proporciona lo siguientes servicios de por vida:
 
 
 
-## Sección 1: Crear cuenta de Oracle Always Free
+## Sección 1 Crear cuenta de Oracle Always Free
 
 Para crear nuestra cuenta dentro de Oracle, debemos dirigirnos al siguiente link.
 
@@ -129,7 +129,7 @@ Cuenta creada. Ahora debemos esperar a que se procese. *(Puede tardar horas)*.
 
 
 
-## Sección 2: Crear base de datos Autónoma
+## Sección 2 Crear base de datos Autónoma
 
 Primero debemos iniciar sesión.
 
@@ -213,7 +213,7 @@ Esperamos a que la base termine de ser creada.
 
 
 
-## Sección 3: Descargar SQL Developer
+## Sección 3 Descargar SQL Developer
 
 Nos dirigimos a: https://www.oracle.com/ar/tools/downloads/sqldev-v192-downloads.html
 
@@ -253,7 +253,7 @@ Dentro de la carpeta extraída, encontraremos el ejecutable.
 
 ![image-20201121190048553](capturas/img31.jpg?raw=true)
 
-## Sección 4: Realizar conexión 
+## Sección 4 Realizar conexión 
 
 Primero, debemos descargar la credencial de nuestra base. Para ello, ingresamos dentro de la Nube de Oracle. *(Mismo procedimiento que realizamos antes de crear la base)*.
 
@@ -326,7 +326,7 @@ Nos pedirá nuevamente la contraseña.
 
 ![img42](capturas/img42.jpg?raw=true)
 
-## Sección 5: Importar datos
+## Sección 5 Importar datos
 
 Una vez conectados a la base, en la carpeta **Tablas(*Filtrado*)** hacemos click derecho, **importar datos.**
 
@@ -462,7 +462,7 @@ Resultado.
 
 
 
-## Sección 6: Exportar datos
+## Sección 6 Exportar datos
 
 Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar".**
 
