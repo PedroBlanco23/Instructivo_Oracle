@@ -359,7 +359,7 @@ Luego, nos permitirá cambiar tipo de datos entre otros o incluso **cambiar los 
 
 Y  por último, se importa la tabla.
 
-![img50](capturas/img50.JPG?raw=true)
+![img50](capturas/img50.jpg?raw=true)
 
 **AVISO**
 
@@ -371,7 +371,7 @@ Probablemente no podamos ver la tabla en la carpeta de "Tablas *(Filtrado)*" ya 
 
 Resultado.
 
-![img52](capturas/img52.JPG?raw=true)
+![img52](capturas/img52.jpg?raw=true)
 
 ### Importar archivo CSV, TXT o DSV
 
@@ -397,9 +397,9 @@ En este caso *(un archivo CSV)*, debemos seleccionar el delimitador que utilizar
 
 Luego, tendremos las mismas opciones que con los demás archivos.
 
-![img57](capturas/img57.JPG?raw=true)
+![img57](capturas/img57.jpg?raw=true)
 
-![img58](capturas/img58.JPG?raw=true)
+![img58](capturas/img58.jpg?raw=true)
 
 ![img59](capturas/img59.jpg?raw=true)
 
@@ -453,7 +453,7 @@ Resultado.
 
 Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar".**
 
-![img67](capturas/img67.JPG?raw=true)
+![img67](capturas/img67.jpg?raw=true)
 
 
 
