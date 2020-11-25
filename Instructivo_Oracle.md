@@ -346,7 +346,7 @@ En archivo, hacemos click en **examinar** y buscamos el archivo Excel.
 
 
 
-Automáticamente nos detectará la cabecera. De ser necesario, la podemos desmarcar para colocarla nosotros mismos luego. *(ir a colocar cabecera pasa saber más)*.
+Automáticamente nos detectará la cabecera. De ser necesario, la podemos desmarcar para colocarla nosotros mismos luego. [*(ir a colocar cabecera pasa saber más)*](#importar-sin-cabecera).
 
 ![img46](capturas/img46.jpg?raw=true)
 
@@ -464,7 +464,7 @@ Resultado.
 
 ## Sección 6 Exportar datos
 
-Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. seleccionamos **"Exportar".**
+Una vez conectados a la base, realizamos click derecho sobre la tabla *o tablas* que deseamos exportar. Seleccionamos **"Exportar".**
 
 ![img67](capturas/img67.jpg?raw=true)
 
