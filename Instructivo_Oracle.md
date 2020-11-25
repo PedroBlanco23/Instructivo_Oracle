@@ -1,25 +1,24 @@
 # Instructivo para crear Base Autónoma en Oracle 
-
-- [Instructivo para crear Base Autónoma en Oracle](#instructivo-para-crear-base-aut-noma-en-oracle)
-    + [Objetivo del instructivo](#objetivo-del-instructivo)
-    + [Requisitos](#requisitos)
-    + [Información a tener en cuenta](#informaci-n-a-tener-en-cuenta)
-  * [Sección 1: Crear cuenta de Oracle Always Free](#secci-n-1--crear-cuenta-de-oracle-always-free)
-  * [Sección 2: Crear base de datos Autónoma](#secci-n-2--crear-base-de-datos-aut-noma)
-  * [Sección 3: Descargar SQL Developer](#secci-n-3--descargar-sql-developer)
-  * [Sección 4: Realizar conexión](#secci-n-4--realizar-conexi-n)
-  * [Sección 5: Importar datos](#secci-n-5--importar-datos)
-    + [Importar archivos Excel](#importar-archivos-excel)
-    + [Importar archivo CSV, TXT o DSV](#importar-archivo-csv--txt-o-dsv)
-    + [Importar sin cabecera](#importar-sin-cabecera)
-  * [Sección 6: Exportar datos](#secci-n-6--exportar-datos)
+## Tabla de contenidos
+- [Instructivo para crear Base Autónoma en Oracle](#instructivo-para-crear-base-autónoma-en-oracle)
+    - [Objetivo del instructivo](#objetivo-del-instructivo)
+    - [Requisitos](#requisitos)
+    - [Información a tener en cuenta](#información-a-tener-en-cuenta)
+ - [Sección 1: Crear cuenta de Oracle Always Free](#sección-1--crear-cuenta-de-oracle-always-free)
+ - [Sección 2: Crear base de datos Autónoma](#sección-2--crear-base-de-datos-autónoma)
+ - [Sección 3: Descargar SQL Developer](#sección-3--descargar-sql-developer)
+ - [Sección 4: Realizar conexión](#sección-4--realizar-conexi-n)
+ - [Sección 5: Importar datos](#sección-5--importar-datos)
+   - [Importar archivos Excel](#importar-archivos-excel)
+   - [Importar archivo CSV, TXT o DSV](#importar-archivo-csv--txt-o-dsv)
+   - [Importar sin cabecera](#importar-sin-cabecera)
+ - [Sección 6: Exportar datos](#sección-6--exportar-datos)
 
 
 
 ### Objetivo del instructivo
 
 - Crear una cuenta en la Nube Always Free.
-
 - Crear una base de datos Oracle Always Free.
 - Descargar SQL Developer.
 - Conectarse a la base de datos Oracle con SQL Developer. 
