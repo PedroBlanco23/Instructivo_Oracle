@@ -4,13 +4,13 @@
     - [Objetivo del instructivo](#objetivo-del-instructivo)
     - [Requisitos](#requisitos)
     - [Información a tener en cuenta](#información-a-tener-en-cuenta)
- - [Sección 1 Crear cuenta de Oracle Always Free](#sección-1:-crear-cuenta-de-oracle-always-free)
+ - [Sección 1 Crear cuenta de Oracle Always Free](#sección-1-crear-cuenta-de-oracle-always-free)
  - [Sección 2 Crear base de datos Autónoma](#sección-2-crear-base-de-datos-autónoma)
  - [Sección 3 Descargar SQL Developer](#sección-3-descargar-sql-developer)
- - [Sección 4 Realizar conexión](#sección-4-realizar-conexi-n)
+ - [Sección 4 Realizar conexión](#sección-4-realizar-conexión)
  - [Sección 5 Importar datos](#sección-5-importar-datos)
    - [Importar archivos Excel](#importar-archivos-excel)
-   - [Importar archivo CSV, TXT o DSV](#importar-archivo-csv--txt-o-dsv)
+   - [Importar archivo CSV TXT o DSV](#importar-archivo-csv-txt-o-dsv)
    - [Importar sin cabecera](#importar-sin-cabecera)
  - [Sección 6 Exportar datos](#sección-6-exportar-datos)
 
@@ -386,7 +386,7 @@ Resultado.
 
 ![img52](capturas/img52.jpg?raw=true)
 
-### Importar archivo CSV, TXT o DSV
+### Importar archivo CSV TXT o DSV
 
 Nos dirigimos a **importar datos**, luego examinamos el archivo.
 
