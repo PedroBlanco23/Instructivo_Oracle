@@ -22,6 +22,7 @@ Cada paso, tiene su respectiva sección.
 
 [Instructivo de como crear una base de datos Always Free](https://github.com/PedroBlanco23/Instructivo_Oracle/blob/master/Instructivo_Oracle.md)
 
+Asi mismo, cuenta con una serie de [**archivos**](https://github.com/PedroBlanco23/OracleCloud_FreeDatabase/tree/master/Archivos%20de%20prueba%20para%20import) para probar importar/exportar en la base.
 
 
 
