@@ -99,7 +99,7 @@ Ingresamos nuestro número de teléfono.
 
 
 
-**Consejo:** Si no reciben el código SMS pueden contactarse con Oracle con el botón de ayuda. *(necesitaran hablar un poco de Inglés)*.
+> **Consejo:** Si no reciben el código SMS pueden contactarse con Oracle con el botón de ayuda. *(necesitaran hablar un poco de Inglés)*.
 
 ![](capturas/imgsms.jpg?raw=true)
 
@@ -119,7 +119,8 @@ Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
 
 
-**AVISO: Puede que se reciba un cobro de 1 dólar pero se cancela AUTOMATICAMENTE es solo para corroborar la cuenta.**
+ **AVISO**
+> **Puede que se reciba un cobro de 1 dólar pero se cancela AUTOMATICAMENTE es solo para corroborar la cuenta.**
 
 
 
@@ -376,7 +377,7 @@ Y  por último, se importa la tabla.
 
 **AVISO**
 
-Probablemente no podamos ver la tabla en la carpeta de "Tablas *(Filtrado)*" ya que debemos **refrescar** la conexión.
+> Probablemente no podamos ver la tabla en la carpeta de "Tablas *(Filtrado)*" ya que debemos **refrescar** la conexión.
 
 ![img51](capturas/img51.jpg?raw=true)
 
@@ -422,7 +423,7 @@ Luego, tendremos las mismas opciones que con los demás archivos.
 
 
 
-**Recordar REFRESCAR!!!!**
+> **Recordar REFRESCAR!!!!**
 
 Resultado.
 
@@ -456,7 +457,7 @@ Luego, realizamos el mismo procedimiento que con los demás archivos.
 
 Resultado.
 
-**Recordar REFRESCAR!!**
+>**Recordar REFRESCAR!!**
 
 ![img66](capturas/img66.jpg?raw=true)
 
@@ -492,7 +493,9 @@ Tenemos varias opciones de como guardar la/s tabla/s.
 
 
 
-*Aviso: Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión incorrecta dará error.*
+> *Aviso*
+>
+> *Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión incorrecta dará error.*
 
 <img src="capturas/img70.jpg?raw=true)" alt="img70" style="zoom: 50%;" />
 
