@@ -220,6 +220,8 @@ Nos dirigimos a: https://www.oracle.com/ar/tools/downloads/sqldev-v192-downloads
 
 Seleccionamos la versión adecuada para nuestro sistema operativo.
 
+> NOTA: La versión JDK de 64 bits viene incluida con el JDK de Java (primer opción). Si tenemos un sistema de 32 bits, deberemos optar por descargar el JDK nosotros. link: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+
 ![img25](capturas/img25.jpg)
 
 
