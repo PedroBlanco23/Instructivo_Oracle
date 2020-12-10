@@ -502,19 +502,15 @@ Tenemos varias opciones de como guardar la/s tabla/s.
 >
 > *Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión incorrecta dará error.*
 
-<img src="capturas/img70.png?raw=true)" alt="img70" style="zoom: 50%;" />
+<img src="capturas/img70.png?raw=true)" alt="img70" />
 
-<img src="capturas/img71.png?raw=true)" alt="img71" style="zoom: 80%;" />
-
-
-
-
+<img src="capturas/img71.png?raw=true)" alt="img71" />
 
 
 
 Aquí podemos **Especificar Datos**.
 
-<img src="capturas/img72.png?raw=true)" alt="img72" style="zoom:80%;" />
+<img src="capturas/img72.png?raw=true)" alt="img72"/>
 
 
 
