@@ -79,7 +79,7 @@ Ingresando a través del link, continuaremos el registro.
 
 En nombre de compañía, de forma opcional pueden poner el nombre de UADE.
 
- ![](capturas/img4.png?raw=true)
+![](capturas/img4.png?raw=true)
 
 
 
@@ -117,7 +117,7 @@ En category and product eligen las siguientes.
 
 Luego de verificar el número de teléfono, debemos ingresar el método de pago.
 
- ![](capturas/img10.png?raw=true)
+![](capturas/img10.png?raw=true)
 
 
 
@@ -502,15 +502,15 @@ Tenemos varias opciones de como guardar la/s tabla/s.
 >
 > *Cuidado con la extensión del archivo al examinar, ya que si ponemos la extensión incorrecta dará error.*
 
-<img src="capturas/img70.png?raw=true)" alt="img70" />
+![img70](capturas/img70.png?raw=true)
 
-<img src="capturas/img71.png?raw=true)" alt="img71" />
+![img71](capturas/img71.png?raw=true)
 
 
 
 Aquí podemos **Especificar Datos**.
 
-<img src="capturas/img72.png?raw=true)" alt="img72"/>
+![img72](capturas/img72.png?raw=true)
 
 
 
