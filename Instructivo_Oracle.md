@@ -219,7 +219,7 @@ Esperamos a que la base termine de ser creada.
 
 ## Sección 3 Descargar SQL Developer
 
-Nos dirigimos a: https://www.oracle.com/ar/tools/downloads/sqldev-v192-downloads.html
+Nos dirigimos a: https://www.oracle.com/tools/downloads/sqldev-downloads.html
 
 Seleccionamos la versión adecuada para nuestro sistema operativo.
 
